@@ -12,3 +12,5 @@ After loading the file with `[letter_boxed].`, use `solution/2`.  For the puzzle
 ```
 solution([['a','x','n'], ['o','h','l'], ['e','m','i'], ['t','y','p']], Words).
 ```
+
+The letters have to be entered lower-case.  Sorry.  Also the order that you enter the sides and the letters within those sides does not matter.
